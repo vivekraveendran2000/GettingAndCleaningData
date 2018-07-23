@@ -8,6 +8,7 @@ Describes the fields in the tidy_set.txt
 - subject : id of the subject
 - activity : Is the activity being performed. 
 - There are six types of activities
+
 1 WALKING
 2 WALKING_UPSTAIRS
 3 WALKING_DOWNSTAIRS
@@ -15,7 +16,7 @@ Describes the fields in the tidy_set.txt
 5 STANDING
 6 LAYING
 
-activityId : Id of the activity
+- activityId : Id of the activity
 
 ### Measurement fields
 
