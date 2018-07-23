@@ -6,8 +6,7 @@ Describes the fields in the tidy_set.txt
 ### Id Fields
 
 - subject : id of the subject
-- activity : Is the activity being performed. 
-- There are six types of activities
+- activity : Is the activity being performed. There are six types of activities
 
 1 WALKING
 2 WALKING_UPSTAIRS
